@@ -39,7 +39,9 @@
 
 <style>
   img {
-    padding-right: 5px
+    padding-right: 5px;
+    text-decoration: none;
+    color: inherit;
   }
   .express {
     font: 15px helvetica neue, open sans, sans-serif;
