@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustbuster&label=Profile%20views&color=0e75b6&style=flat" alt="dustbuster" /> </p>
 
-### 🔥 I’m currently learning **React, Node, Express, Go lang, Kotlin**
+### 🔥 I’m currently learning **React, Node, Express, Typescript, Postgres, Php, and Laravel**
 
 - 🔭 I’m using [node-backend](https://github.com/dustbuster/node-backend)
 
