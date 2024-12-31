@@ -23,7 +23,7 @@
 
 ### 🧩 Connect with me
 
-📫 Send me a message on LinkedIn [[dustin.horning1@gmail.com](mailto:dustin.horning1@gmail.com)](https://www.linkedin.com/in/dustin-horning/)
+📫 Send me a message on LinkedIn to connect; [https://www.linkedin.com/in/dustin-horning/](https://www.linkedin.com/in/dustin-horning/)
 
 <a href="https://dev.to/dustbuster" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dustbuster" height="30" width="40" />
